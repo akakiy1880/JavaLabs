@@ -1,0 +1,5 @@
+id=1, name=1, x=1, y=1, date=2022-01-11T13:57:00.551589, realHero=true, hasToothpick=false, impactSpeed=11, weaponType=SHOTGUN, mood=LONGING, carName=Toyota
+id=2, name=12, x=2, y=2, date=2022-02-11T13:57:00.551589, realHero=true, hasToothpick=true, impactSpeed=12, weaponType=AXE, mood=APATHY, carName=Porsche
+id=4, name=1234, x=4, y=4, date=2021-04-11T13:57:00.551589, realHero=true, hasToothpick=true, impactSpeed=14, weaponType=AXE, mood=FRENZY, carName=Suzuki
+id=5, name=12345, x=5, y=5, date=2021-05-11T13:57:00.551589, realHero=false, hasToothpick=false, impactSpeed=15, weaponType=MACHINE_GUN, mood=RAGE, carName=Lincoln
+id=6, name=123456, x=6, y=6, date=2022-04-28T13:19:06.265163100, realHero=true, hasToothpick=false, impactSpeed=16, weaponType=AXE, mood=RAGE, carName=Citroen
