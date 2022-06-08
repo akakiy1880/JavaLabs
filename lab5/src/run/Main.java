@@ -2,6 +2,14 @@ package run;
 
 import logging.Log;
 
+// Лабораторная работа №5
+
+// Преподаватель: Егошин Алексей Васильевич
+// Выполнили:
+//           Полуянов Александр 341473
+//           Крол Элина 316971
+
+
 public class Main {
     public static void main(String[] args) {
         try {
